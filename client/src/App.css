@@ -1,0 +1,9 @@
+body{
+    background:rgb(17 24 39);
+    font-family:Inter,sans-serif;
+}
+.image{
+    width:500px;
+    height: 500px;
+    object-fit: contain;
+}
