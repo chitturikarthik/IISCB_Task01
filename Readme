@@ -1,0 +1,18 @@
+Extremly sorry for not containerizing the web application.
+The frontend code is present in the client folder and backend code is present in the server folder.
+
+For Frontend -
+    1.Install and setup node.js on your local machine from  https://nodejs.org/en
+    2.Once you have Node.js installed in your local machine ,  navigate to client folder through terminal 
+        cd client
+        npm install --- to install all the needed packages
+        npm run dev -- to run the frontend
+
+For Backend - 
+    1.Make sure that local machine has Python installed.
+    2.Navigate to server folder and run the below commands.
+        cd server
+        pip install -r requirements.txt
+        python main.py
+
+That's it , you are ready to use the web application . 
